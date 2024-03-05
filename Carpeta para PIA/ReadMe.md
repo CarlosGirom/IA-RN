@@ -1,0 +1,1 @@
+De misma forma, esta carpeta tiene la intención de almacenar en sus dominios los avances realizados en lo qe corresponde al Producto Integrador de Aprendizaje de la materia de Inteligencia Artificial y Redes Neuronales.
